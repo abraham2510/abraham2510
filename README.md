@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 ### <div align="center">Front-End Developer skilled in React.js, HTML, CSS, and Tailwind CSS, with backend experience in Java and Spring Boot. I build responsive UIs and integrate REST APIs for full-stack web apps.</div>  
   
 
